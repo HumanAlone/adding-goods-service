@@ -62,6 +62,8 @@ docker build -t order-service .
 docker run -p 8000:8000 order-service
 ```
 
+Приложение доступно по адресу: http://149.154.70.253:8000/
+
 ## API Endpoints
 **GET /**  
 Информация о сервисе  
