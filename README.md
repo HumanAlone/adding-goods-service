@@ -54,12 +54,12 @@ python main.py
 
 ```bash
 # Сборка образа
-docker build -t order-service .
+docker build -t adding-goods-service .
 ```
 
 ```bash
 # Запуск контейнера
-docker run -p 8000:8000 order-service
+docker run -p 8000:8000 adding-goods-service
 ```
 
 Приложение доступно по адресу: http://149.154.70.253:8000/
