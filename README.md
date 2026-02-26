@@ -62,7 +62,7 @@ docker build -t adding-goods-service .
 docker run -p 8000:8000 adding-goods-service
 ```
 
-Приложение доступно по адресу: http://149.154.70.253:8000/
+Приложение доступно по адресу: http://localhost:8000
 
 ## API Endpoints
 **GET /**  
